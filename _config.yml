@@ -16,18 +16,18 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "🥨De1iy🥨"
+title                    : "🥨 De1iy 🥨"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "de1iy"
-description              : "An amazing website for de1iy members"
+subtitle                 : "회고록" # site tagline that appears below site title in masthead
+name                     : "De1iy"
+description              : "An amazing website for De1iy members"
 url                      : "https://de1iy.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/manjoo.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -90,13 +90,12 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "🥨De1iy Members🥨"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "we are an **amazing** person."
+  location         : "Somewhere in Korea 🇰🇷"
   email            :
   links:
     - label: "Email"
@@ -117,7 +116,10 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-
+# Site Header
+header:
+  teaser: "/assets/images/deliManjoo.jpg"
+  
 # Site Footer
 footer:
   links:
