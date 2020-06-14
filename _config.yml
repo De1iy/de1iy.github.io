@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "🥨 De1iy 🥨"
 title_separator          : "-"
-subtitle                 : "회고록" # site tagline that appears below site title in masthead
+subtitle                 : "델리를 실행하며의 기록" # site tagline that appears below site title in masthead
 name                     : "De1iy"
 description              : "An amazing website for De1iy members"
 url                      : "https://de1iy.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -28,6 +28,8 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : "/assets/images/manjoo.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
+breadcrumb_home_label : "Start"
+breadcrumb_separator  : ">"
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -92,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "🥨De1iy Members🥨"
+  name             : "De1iy Members"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "we are an **amazing** person."
   location         : "Somewhere in Korea 🇰🇷"
@@ -281,3 +283,5 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar:
+        nav: "docs"
