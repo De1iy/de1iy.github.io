@@ -1,9 +1,8 @@
-# 시즌 1 회고록 작성
-
-Category: 기타
-Status: Completed
-Writer: 혜선 최
-우선순위: ✌️시즌 안에 끝내기
+---
+title: "델리 시즌1 회고록 - @devssun"
+date: 2020-08-23 23:00:00 -0400
+categories: season1 review
+---
 
 # 2020년 3월 델리가 시작되었다.
 
