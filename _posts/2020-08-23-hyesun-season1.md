@@ -12,8 +12,7 @@ categories: season1 review
 
 처음엔 몇가지 간단한 규칙만 가지고 운영을 했었다. 간단한 규칙은 어딘가 모임을 아쉽게 만들었다.
 
-![/assets/images/hyesun1.png](/assets/images/hyesun1.png)
-
+![/assets/images/hyesun2.png](/assets/images/hyesun2.png)
 3월 Beta 규칙
 
 나는 이전에 블로깅 관련 모임에 한 번 참여했던 적이 있어 그때 사용한 규칙을 조금 가져와 델리 모임에 적용해 봤고 (물론 동의를 얻었음!) 친구 한 명을 더 끌어들여 지금의 델리를 만들었다. ✌️✌️✌️✌️
@@ -27,7 +26,7 @@ categories: season1 review
 델리는 각자 시즌 동안 / 한 달동안 해야할 일들을 등록하고 공유하는 것이 가장 큰 목적이다. 
 처음엔 노션으로만 하다보니 자신이나 서로의 진행도를 알 수 없는 단점이 있어 규칙에 데일리 회고를 추가했다.카카오톡 게시판 → 구글 시트랑 함께 공유하면서 서로 투자한 시간과 일감이 공유되어 좋았다. 😃
 
-![/assets/images/hyesun2.png](/assets/images/hyesun2.png)
+![/assets/images/hyesun1.png](/assets/images/hyesun1.png)
 
 *(회고록 쓰다 만지 한달 지나서 보고 있는데 이 뒤에 무슨 내용을 쓰려고 했는지 기억나지 않음...)*
 
